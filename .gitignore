@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv
+.env
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Build files
+dist/
+build/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache
+.npm/
+
+# Optional yarn cache
+.pnp.*
